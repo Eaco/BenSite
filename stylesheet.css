@@ -1,0 +1,136 @@
+.projpho{
+	float: left;
+	display: table;
+	right
+	vertical-align: middle;
+
+	height: 15em;
+	width: 15em;
+	border-radius: 7.5em;
+		text-align: center;
+}
+
+.morris{
+	color:#0F7D70;
+	font-family:courier;
+	font-size:3em;
+
+}
+.ben{
+	color:#189E8E;
+	font-family:courier;
+	font-size:3em;
+		-webkit-transition: all .25s ease-in-out;
+	-moz-transition: all .25s ease-in-out;
+	-o-transition: all .25s ease-in-out;
+	-ms-transition: all .25s ease-in-out;
+	transition: all .25s ease-in-out;
+}
+}
+body{
+	font-size: 1em;
+}
+img{
+	border-radius:100px;
+	margin:auto;
+}
+.project:hover{
+	background-color:teal;
+	-webkit-transition: all .25s ease-in-out;
+	-moz-transition: all .25s ease-in-out;
+	-o-transition: all .25s ease-in-out;
+	-ms-transition: all .25s ease-in-out;
+	transition: all .25s ease-in-out;
+}
+.project{
+	font-size: 1em;
+	color: white;
+	font-family: courier;
+	background-color: #189E8E;		/*think about changing the colour here*/
+	height: 15em;
+	margin-right: 10%;
+	margin-left: 10%; 
+	width: ;
+
+	border-radius: 7.5em;
+	line-height: 15em;
+	
+	text-align: center;
+	-webkit-transition: all .25s ease-in-out;
+	-moz-transition: all .25s ease-in-out;
+	-o-transition: all .25s ease-in-out;
+	-ms-transition: all .25s ease-in-out;
+	transition: all .25s ease-in-out;
+}
+.space{
+	color: white;
+	height: 1em;
+	margin: auto;
+}
+.spacey{
+	color: white;
+	width: 1em;
+	float: left;
+}
+
+.boxer{
+
+  font-size: 3em;
+}
+
+.button:hover{
+	background-color: teal;
+	-webkit-transition: all .5s ease-in-out;
+	-moz-transition: all .5s ease-in-out;
+	-o-transition: all .5s ease-in-out;
+	-ms-transition: all .5s ease-in-out;
+	transition: all .5s ease-in-out;
+}
+.button{
+	-webkit-transition: all .5s ease-in-out;
+	-moz-transition: all .5s ease-in-out;
+	-o-transition: all .5s ease-in-out;
+	-ms-transition: all .5s ease-in-out;
+	transition: all .5s ease-in-out;
+	font-size:1em;
+	font-weight: bold;
+	color:white;
+	font-family:courier;
+	background-color:#189E8E;
+	height:5em;
+	width: 10em;
+	margin: auto;
+	border-radius: 40px;
+	float: left;
+	text-align: center;
+	line-height: 5em
+}
+.container{
+	margin: auto;
+	width: 30em;
+	height: 5em;
+}
+.pln{
+	width:50%;
+}
+.soft{
+	font-weight: bold;
+	font-size: 2em;
+}
+.uni{
+	font-weight: bold;
+}
+h1{
+			-webkit-transition: all .25s ease-in-out;
+	-moz-transition: all .25s ease-in-out;
+	-o-transition: all .25s ease-in-out;
+	-ms-transition: all .25s ease-in-out;
+	transition: all .25s ease-in-out;
+}
+.resume{
+	width: 50%;
+	text-align: left;
+}
+a{
+	text-decoration: none;
+}
