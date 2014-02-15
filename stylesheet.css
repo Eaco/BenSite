@@ -48,8 +48,7 @@ img{
 	font-family: courier;
 	background-color: #189E8E;		/*think about changing the colour here*/
 	height: 15em;
-	margin-right: 10%;
-	margin-left: 10%; 
+
 	width: ;
 
 	border-radius: 7.5em;
@@ -101,7 +100,7 @@ img{
 	width: 10em;
 	margin: auto;
 	border-radius: 40px;
-	float: left;
+	
 	text-align: center;
 	line-height: 5em
 }
@@ -133,4 +132,12 @@ h1{
 }
 a{
 	text-decoration: none;
+}
+.resumer{
+	font-family: Verdana;
+}
+.linkey{
+	display: block;
+	margin-right: 10%;
+	margin-left: 10%;
 }
